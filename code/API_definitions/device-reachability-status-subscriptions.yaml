@@ -56,7 +56,6 @@ info:
     ## Further info and support
 
     (FAQs will be added in a later version of the documentation)
-
     # Authorization and authentication
 
     [Camara Security and Interoperability Profile](https://github.com/camaraproject/IdentityAndConsentManagement/blob/main/documentation/CAMARA-Security-Interoperability.md) provides details on how a client requests an access token.
